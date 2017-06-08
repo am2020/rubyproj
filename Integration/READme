@@ -1,0 +1,13 @@
+Automation API testing frame work for a generic app (Notes)
+
+I tried to make a really generic api with relevant calls to it
+
+Running Api (Notes)
+- Navigate to project directory in command line
+- Type 'ruby api.rb'
+- Press Enter key
+
+Running the test suite 
+- Navigate to the folder directory in command line 
+- Type 'rake'
+- Press Enter key
